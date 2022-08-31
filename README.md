@@ -1,26 +1,37 @@
-# MSM-Linux-Release-Official
-## Preconfigured and tweaked Ubuntu based OS 
-## Focused on User Experience and Performance
-
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/msm-linux/MSM-Linux-Release-Official/main/assets/welcome.png" alt="MSM Linux"></a>
   <br>
-  Markdownify
   <br>
-</h1>
+  <u><b>MSM Linux</b></u>
+  <br>
+    <h2 align="center">
+    Tweaked for:
+<h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=720&lines=Performance;User+Experience;Usability;A+nice+starting+point+into+Linux+world" alt="Typing SVG" /></a>
 
 
-<p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
-</p>
+
+
+
+<h2 align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</h2>
+
+<h2 align="center">
+
+[![forthebadge](https://forthebadge.com/images/badges/does-not-contain-msg.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+
+</h2>
+
+---
+## Releases:
+-   MSM Linux Beta - Version 0.0.1 (<a href="">DOWNLOAD & CHANGELOG</a>)
+
+
+
+
