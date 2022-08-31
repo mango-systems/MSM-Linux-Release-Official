@@ -104,3 +104,7 @@
     - Switch to Calamares installer instead of Ubiquity
     - MSM linux configurator (WIP)
 
+## MD5 Checksum
+```
+    27cdc27fdb67fcffeeea8641a2df0936  msm-linux-beta-v1.iso
+```

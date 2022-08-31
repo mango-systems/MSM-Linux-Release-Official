@@ -8,7 +8,7 @@
     <h2 align="center">
     Tweaked for:
 <h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=720&lines=Performance;User+Experience;Usability;A+nice+starting+point+into+Linux+world" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Performance;User+Experience;Usability;For+fun;A+nice+starting+point+into+Linux+world" alt="Typing SVG" /></a>
 
 
 
