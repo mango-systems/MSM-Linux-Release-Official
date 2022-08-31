@@ -2,7 +2,13 @@
 ## Base image: Ubuntu 22.04
 ## Desktop: GNOME
 
+<br>
+
+
 <a href="https://git.io/typing-svg"><img src="https://raw.githubusercontent.com/msm-linux/MSM-Linux-Release-Official/main/assets/download.png" alt="Download Button" /></a>
+
+
+<br>
 
 ---
 ## Added:
