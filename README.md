@@ -30,7 +30,7 @@
 </h1>
 
 ## Releases:
--   MSM Linux Beta - Version 0.0.1 (<a href="https://github.com/msm-linux/MSM-Linux-Release-Official/changelogs/version0.0.1-beta/">DOWNLOAD & CHANGELOG</a>)
+-   MSM Linux Beta - Version 0.0.1 (<a href="https://github.com/msm-linux/MSM-Linux-Release-Official/tree/main/changelogs/version0.0.1-beta">DOWNLOAD & CHANGELOG</a>)
 
 
 
