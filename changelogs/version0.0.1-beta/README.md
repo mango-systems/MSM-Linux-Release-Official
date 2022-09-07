@@ -103,6 +103,12 @@
     - Nala apt frontend
     - Switch to Calamares installer instead of Ubiquity
     - MSM linux configurator (WIP)
+    
+    - Gnome Console (kgx)
+    - pulseeffects
+    - tlp (https://linrunner.de/tlp/installation/ubuntu.html)
+    - nautilus-extension-gnome-terminal (replace with console)
+    - use Deb-get instead of pacstall
 
 ## MD5 Checksum
 ```
