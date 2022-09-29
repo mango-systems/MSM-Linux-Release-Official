@@ -109,6 +109,8 @@
     - tlp (https://linrunner.de/tlp/installation/ubuntu.html)
     - nautilus-extension-gnome-terminal (replace with console)
     - use Deb-get instead of pacstall
+    
+    - https://github.com/lakinduakash/linux-wifi-hotspot (add)
 
 ## MD5 Checksum
 ```
