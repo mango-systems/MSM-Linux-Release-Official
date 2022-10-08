@@ -1,6 +1,6 @@
 # Version 0.0.1 Beta
-## Base image: Ubuntu 22.04
-## Desktop: GNOME
+<b>Base image: Ubuntu 22.04</b>
+Desktop: GNOME
 
 <br>
 
