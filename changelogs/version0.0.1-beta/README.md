@@ -111,6 +111,8 @@
     - use Deb-get instead of pacstall
     
     - https://github.com/lakinduakash/linux-wifi-hotspot (add)
+    - https://davejansen.com/enable-webp-support-fedora-nautilus-preview/
+    - https://www.freedesktop.org/wiki/Software/xdg-utils/
 
 ## MD5 Checksum
 ```
