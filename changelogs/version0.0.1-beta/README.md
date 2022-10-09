@@ -118,3 +118,6 @@ Desktop: GNOME
 ```
     27cdc27fdb67fcffeeea8641a2df0936  msm-linux-beta-v1.iso
 ```
+
+## Bookmarks
+    https://blogs.gnome.org/uraeus/2022/06/10/how-to-get-your-application-to-show-up-in-gnome-software/
