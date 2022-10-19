@@ -122,3 +122,4 @@ Desktop: GNOME
 ## Bookmarks
     https://blogs.gnome.org/uraeus/2022/06/10/how-to-get-your-application-to-show-up-in-gnome-software/
     https://makealinux.app/#/
+    https://github.com/icedman/dash2dock-lite
